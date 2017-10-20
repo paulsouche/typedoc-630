@@ -1,0 +1,11 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "test typedoc",
+  "main": "index.js",
+  "author": "Paul Souche",
+  "license": "MIT",
+  "scripts": {
+    "docs": "typedoc index.ts"
+  }
+}
